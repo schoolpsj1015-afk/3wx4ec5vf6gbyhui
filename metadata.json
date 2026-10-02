@@ -1,0 +1,7 @@
+{
+  "name": "대진전자통신고 급식알리미",
+  "description": "대진전자통신고등학교 날짜별 실시간 급식 조회, 알레르기 안내, 식단 평가 및 AI 영양 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
